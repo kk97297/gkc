@@ -1,4 +1,4 @@
 console.log("git knowledge check")
-function(){
+function nf(){
 console.log("new feature implemented");
 }
